@@ -2,10 +2,6 @@
 #### S.D.E.T and DevOps
 I'm Wahaj Tahir, a seasoned Software Development Engineer in Test (SDET) with strong DevOps expertise. I ensure that your web, mobile, and desktop applications are high-quality, bug-free, and seamlessly integrated into your development and deployment processes.
 
-Skills: C/C++ / Bash / Go / Python / Javascript /Latex
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
