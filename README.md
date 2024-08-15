@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="Logo" width="200">
+  <img src="./artifact.png" alt="Logo" width="200">
   <h1><br>Wahaj Tahir</br></h1>
 </div>
 
