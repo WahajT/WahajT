@@ -1,4 +1,8 @@
-### Hi there 👋, Wahaj Tahir
+<div align="center">
+  <img src="https://your-logo-url.com/logo.png" alt="Logo" width="200">
+  <h1><br>Wahaj Tahir</br></h1>
+</div>
+
 #### S.D.E.T and DevOps
 As seasoned Software Development Engineer in Test (SDET) with strong DevOps expertise. I ensure that your web, mobile, and desktop applications are high-quality, bug-free, and seamlessly integrated into your development and deployment processes.
 
