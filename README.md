@@ -5,17 +5,12 @@
 <div align="center">
   <h6><br>S.D.E.T and DevOps</br></h6>
 </div>
+<p>
 As seasoned Software Development Engineer in Test (SDET) with strong DevOps expertise. I ensure that your web, mobile, and desktop applications are high-quality, bug-free, and seamlessly integrated into your development and deployment processes.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wahaj-tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wahaj-tahir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <section id="tech-stack" class="tech-stack">
-        <h1> My Tech Stack</h1>
+<p align="center"> 
  <div>
      <!-- JAVASCRIPT -->
      <img  width="40 " src="./MyStack/javascript.svg" alt="Javascript">
@@ -52,9 +47,7 @@ As seasoned Software Development Engineer in Test (SDET) with strong DevOps expe
     <!-- KUBERNETS -->
     <img  width="40" src="./MyStack/kubernets.svg" alt="Kubernets">
     <!-- ANSIBLE -->
-    <img  width="40"  src="./MyStack/ansible.svg" alt="Ansible">
-    
-
+    <img  width="40"  src="./MyStack/ansible.svg" alt="Ansible">   
 </div>
 
    <!-- New Line -->
@@ -62,11 +55,11 @@ As seasoned Software Development Engineer in Test (SDET) with strong DevOps expe
   <!-- AWS -->
   <img  width="40"  src="./MyStack/AWS.svg" alt="Aws">
    </div>
-
-
-     <!-- New Line -->
  </p>
 
+<h3 align="left">Website</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-
+</p>
