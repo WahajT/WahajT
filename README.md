@@ -10,56 +10,25 @@ As seasoned Software Development Engineer in Test (SDET) with strong DevOps expe
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
- <div>
-     <!-- JAVASCRIPT -->
-     <img  width="40 " src="./MyStack/javascript.svg" alt="Javascript">
-     <!-- PYTHON -->
-     <img  width="40 " src="./MyStack/python.svg" alt="Python">
-     <!-- BASH -->
-     <img  width="40 " src="./MyStack/bash.svg" alt="Bash">
- 
-  </div>
- <!-- New Line -->
- <div>
-     <!-- APPIUM -->
-     <img  width="40" src="./MyStack/appium.svg" alt="Appium">
-      <!-- SELENIUM -->
-     <img  width="40" src="./MyStack/selenium.svg" alt="selenium">
-    <!-- RobotFrameWork -->
+<p align="left"> 
+  <img  width="40 " src="./MyStack/javascript.svg" alt="Javascript">
+  <img  width="40 " src="./MyStack/python.svg" alt="Python">
+  <img  width="40 " src="./MyStack/bash.svg" alt="Bash">
+  <img  width="40" src="./MyStack/appium.svg" alt="Appium">
+  <img  width="40" src="./MyStack/selenium.svg" alt="selenium">
  <img  width="40" src="./MyStack/robotframework.svg" alt="Robot">
-   </div>
- <!-- New Line -->
- <div>
-     <!-- GITLAB -->
-     <img  width="40" src="./MyStack/gitlab.svg" alt="Gitlab">
-
-  <!-- POSTMAN -->
+  <img  width="40" src="./MyStack/gitlab.svg" alt="Gitlab">
  <img  width="40" src="./MyStack/postman.svg" alt="Postman">
-        <!-- LATEX -->
  <img  width="40"  src="./MyStack/latex.svg" alt="Latex">
-  </div>
-  
-  <!-- New Line -->
-  <div>
-    <!-- DOCKER -->
-    <img  width="40" src="./MyStack/docker.svg" alt="Docker">
-    <!-- KUBERNETS -->
-    <img  width="40" src="./MyStack/kubernets.svg" alt="Kubernets">
-    <!-- ANSIBLE -->
-    <img  width="40"  src="./MyStack/ansible.svg" alt="Ansible">   
-</div>
-
-   <!-- New Line -->
-   <div>
-  <!-- AWS -->
-  <img  width="40"  src="./MyStack/AWS.svg" alt="Aws">
-   </div>
- </p>
+  <img  width="40" src="./MyStack/docker.svg" alt="Docker">
+  <img  width="40" src="./MyStack/kubernets.svg" alt="Kubernets">
+  <img  width="40"  src="./MyStack/ansible.svg" alt="Ansible">   
+</p>
 
 <h3 align="left">Website</h3>
-
+- 🌐<a> https://wahajt.github.io/</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 
 </p>
