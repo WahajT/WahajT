@@ -18,41 +18,41 @@ As seasoned Software Development Engineer in Test (SDET) with strong DevOps expe
         <h1> My Tech Stack</h1>
  <div>
      <!-- JAVASCRIPT -->
-     <img  width="96 " src="./MyStack/javascript.svg" alt="Javascript">
+     <img  width="40 " src="./MyStack/javascript.svg" alt="Javascript">
      <!-- PYTHON -->
-     <img  width="96 " src="./MyStack/python.svg" alt="Python">
+     <img  width="40 " src="./MyStack/python.svg" alt="Python">
      <!-- BASH -->
-     <img  width="96 " src="./MyStack/bash.svg" alt="Bash">
+     <img  width="40 " src="./MyStack/bash.svg" alt="Bash">
  
   </div>
  <!-- New Line -->
  <div>
      <!-- APPIUM -->
-     <img  width="96" src="./MyStack/appium.svg" alt="Appium">
+     <img  width="40" src="./MyStack/appium.svg" alt="Appium">
       <!-- SELENIUM -->
-     <img  width="96" src="./MyStack/selenium.svg" alt="selenium">
+     <img  width="40" src="./MyStack/selenium.svg" alt="selenium">
     <!-- RobotFrameWork -->
- <img  width="96" src="./MyStack/robotframework.svg" alt="Robot">
+ <img  width="40" src="./MyStack/robotframework.svg" alt="Robot">
    </div>
  <!-- New Line -->
  <div>
      <!-- GITLAB -->
-     <img  width="96" src="./MyStack/gitlab.svg" alt="Gitlab">
+     <img  width="40" src="./MyStack/gitlab.svg" alt="Gitlab">
 
   <!-- POSTMAN -->
- <img  width="96" src="./MyStack/postman.svg" alt="Postman">
+ <img  width="40" src="./MyStack/postman.svg" alt="Postman">
         <!-- LATEX -->
- <img  width="100"  src="./MyStack/latex.svg" alt="Latex">
+ <img  width="40"  src="./MyStack/latex.svg" alt="Latex">
   </div>
   
   <!-- New Line -->
   <div>
     <!-- DOCKER -->
-    <img  width="96" src="./MyStack/docker.svg" alt="Docker">
+    <img  width="40" src="./MyStack/docker.svg" alt="Docker">
     <!-- KUBERNETS -->
-    <img  width="96" src="./MyStack/kubernets.svg" alt="Kubernets">
+    <img  width="40" src="./MyStack/kubernets.svg" alt="Kubernets">
     <!-- ANSIBLE -->
-    <img  width="75"  src="./MyStack/ansible.svg" alt="Ansible">
+    <img  width="40"  src="./MyStack/ansible.svg" alt="Ansible">
     
 
 </div>
@@ -60,7 +60,7 @@ As seasoned Software Development Engineer in Test (SDET) with strong DevOps expe
    <!-- New Line -->
    <div>
   <!-- AWS -->
-  <img  width="96"  src="./MyStack/AWS.svg" alt="Aws">
+  <img  width="40"  src="./MyStack/AWS.svg" alt="Aws">
    </div>
 
 
