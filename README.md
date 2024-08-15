@@ -17,13 +17,18 @@ As seasoned Software Development Engineer in Test (SDET) with strong DevOps expe
   <img  width="40" src="./MyStack/appium.svg" alt="Appium">
   <img  width="40" src="./MyStack/selenium.svg" alt="selenium">
  <img  width="40" src="./MyStack/robotframework.svg" alt="Robot">
+ <img  width="40" src="./MyStack/cypress.svg" alt="Cypress">
   <img  width="40" src="./MyStack/gitlab.svg" alt="Gitlab">
  <img  width="40" src="./MyStack/postman.svg" alt="Postman">
+ <img  width="40"  src="./MyStack/jupyter.svg" alt="Jupyter">
+ <img  width="40"  src="./MyStack/pandas.svg" alt="pandas">   
+ <img  width="40"  src="./MyStack/scikit-learn.svg" alt="Scikit-learn">      
  <img  width="40"  src="./MyStack/latex.svg" alt="Latex">
  <img  width="40"  src="./MyStack/jenkins.svg" alt="jenkins">
   <img  width="40" src="./MyStack/docker.svg" alt="Docker">
   <img  width="40" src="./MyStack/kubernets.svg" alt="Kubernets">
   <img  width="40"  src="./MyStack/ansible.svg" alt="Ansible">   
+
 </p>
 <h3 align="left">Website</h3>
 - 🌐<href> https://wahajt.github.io</href>
