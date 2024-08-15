@@ -1,9 +1,10 @@
 <div align="center">
   <img src="./artifact.png" alt="Logo" width="200">
-  <h1><br>Wahaj Tahir</br></h1>
+  <h1 style="color:#8A2BE2;"><br>Wahaj Tahir</br></h1>
 </div>
-
-#### S.D.E.T and DevOps
+<div align="center">
+  <h1 style="color:#8A2BE2;"><br>S.D.E.T and DevOps</br></h1>
+</div>
 As seasoned Software Development Engineer in Test (SDET) with strong DevOps expertise. I ensure that your web, mobile, and desktop applications are high-quality, bug-free, and seamlessly integrated into your development and deployment processes.
 
 <h3 align="left">Connect with me:</h3>
