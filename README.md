@@ -28,8 +28,8 @@ As seasoned Software Development Engineer in Test (SDET) with strong DevOps expe
 <h3 align="left">Website</h3>
 - 🌐<href> https://wahajt.github.io</href>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:wahajtahir01@gmail.com"><img  width="20" src="./MyStack/gmail.svg" alt="gmail"></a>
+<p align="center">
+<a href=""><img  width="40" src="./MyStack/gmail.svg" alt="gmail"></a>
 <a href="https://www.linkedin.com/in/wahaj-tahir"><img  width="40"  src="./MyStack/linkedin.svg" alt="linkedin"></a>
 <a href=""><img  width="40"  src="./MyStack/discord.svg" alt="Discord"></a>
 </p>
