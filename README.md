@@ -10,6 +10,7 @@ As seasoned Software Development Engineer in Test (SDET) with strong DevOps expe
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<img  width="40 " src="./MyStack/GO.svg" alt="Golang">
   <img  width="40 " src="./MyStack/javascript.svg" alt="Javascript">
   <img  width="40 " src="./MyStack/python.svg" alt="Python">
   <img  width="40 " src="./MyStack/bash.svg" alt="Bash">
